@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(228, 197, 45);
+}
+nav{
+    background-color: rgb(56,55,55);
+}
